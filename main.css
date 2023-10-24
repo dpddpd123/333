@@ -1,0 +1,58 @@
+.hobby_card{
+    border-style: solid;
+    box-shadow: 0 0 15px blue;
+    border-radius: 10px;
+    font-size: large;
+    margin: 15px;
+    padding: 15px;
+    max-width: 300px;
+    min-width: 100px;
+    max-height: 400px;
+    min-height: 450px;
+}
+main{
+    margin-left: 15pt;
+    margin-right: 15pt;
+}
+.hobby_cont{
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    flex-wrap: wrap;
+}
+.photo{
+    background: url(https://desu.shikimori.one/uploads/poster/animes/5114/main-eb70ba6e4e8cd164a2f59fc61761b163.webp) center no-repeat;
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 50%;
+}
+.photo1{
+    background: url(https://desu.shikimori.one/uploads/poster/animes/9253/main-0f08548d9e862b381b9567acddd98548.webp) center no-repeat;
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 50%;
+}
+.photo2{
+    background: url(https://desu.shikimori.one/uploads/poster/animes/41467/main-83dfa81382c4a9113fb262e7fdb61f02.webp) center no-repeat;
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 50%;
+}
+.photo3{
+    background: url(https://desu.shikimori.one/uploads/poster/animes/38524/main-2dc7b9d5ff2146c8976b1ea3206451ce.webp) center no-repeat;
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 50%;
+}
+.photo4{
+    background: url(https://desu.shikimori.one/uploads/poster/animes/11061/main-338dcdc65ffbbe6254b98e93f0fe4a05.webp) center no-repeat;
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 50%;
+}
